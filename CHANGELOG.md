@@ -1,3 +1,9 @@
+## [14.0.8](https://github.com/appium/appium-android-driver/compare/v14.0.7...v14.0.8) (2026-09-05)
+
+### Bug Fixes
+
+* parameterize AndroidDriver over its capability constraints ([#1096](https://github.com/appium/appium-android-driver/issues/1096)) ([65481de](https://github.com/appium/appium-android-driver/commit/65481de18ac2c65414b1140746aab44041d9129e))
+
 ## [14.0.7](https://github.com/appium/appium-android-driver/compare/v14.0.6...v14.0.7) (2026-09-01)
 
 ### Miscellaneous Chores
