@@ -1,3 +1,9 @@
+## [14.2.0](https://github.com/appium/appium-android-driver/compare/v14.1.0...v14.2.0) (2026-09-10)
+
+### Features
+
+* own the rotation legacy MJSONWP route ([#1098](https://github.com/appium/appium-android-driver/issues/1098)) ([f33f7f9](https://github.com/appium/appium-android-driver/commit/f33f7f989445d252890887c6fe7fea67770b5db4))
+
 ## [14.1.0](https://github.com/appium/appium-android-driver/compare/v14.0.8...v14.1.0) (2026-09-10)
 
 ### Features
