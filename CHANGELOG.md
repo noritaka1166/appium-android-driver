@@ -1,3 +1,9 @@
+## [14.1.0](https://github.com/appium/appium-android-driver/compare/v14.0.8...v14.1.0) (2026-09-10)
+
+### Features
+
+* own the orientation/context/contexts legacy routes ([#1097](https://github.com/appium/appium-android-driver/issues/1097)) ([090e7b6](https://github.com/appium/appium-android-driver/commit/090e7b6d426a9ae2310392aca1873774b15519d4))
+
 ## [14.0.8](https://github.com/appium/appium-android-driver/compare/v14.0.7...v14.0.8) (2026-09-05)
 
 ### Bug Fixes
